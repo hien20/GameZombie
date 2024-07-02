@@ -19,11 +19,13 @@ Hình 3: Main Victory
   ![image](https://github.com/hien20/GameZombie/assets/85773590/2ea1ea44-aad2-4733-b6f5-ba5476eb9ef9)
 
  Hình 4:Scene Instruct
-
+![image](https://github.com/hien20/GameZombie/assets/85773590/2515ed6c-4e0a-4044-bef8-2144c4b1d1d8)
  
 Hình 5: Scene pause
 
- ![image](https://github.com/hien20/GameZombie/assets/85773590/2515ed6c-4e0a-4044-bef8-2144c4b1d1d8)
+ 
+
+![image](https://github.com/hien20/GameZombie/assets/85773590/33c994f5-ec79-44b5-b931-122825c80bbf)
 
 Hình 6: Nhân vật
 	
